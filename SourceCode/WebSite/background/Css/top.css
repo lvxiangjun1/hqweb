@@ -1,0 +1,138 @@
+@charset "utf-8";
+/* CSS Document */
+
+body {
+	background-image: url(../images/xitong_03.jpg);
+	background-repeat: no-repeat;
+	height: 121px;
+	margin: 0px;
+	
+}
+
+.TopTitle {
+	height:95px;
+	float:left;
+	text-decoration: none;
+	background-image: url(../images/xitong_0111.jpg);
+	text-indent: 240px;
+	background-repeat: no-repeat;
+	width: 800px;
+	
+}
+.TopRight {
+	float:right;
+	width:280px;
+	padding-right:5px;
+	margin-top: 55px;
+}
+.TopCenter { padding-top:18px;	padding-right:7px;
+	float:right;
+	font-family: "宋体";
+	color:#333;
+	font-size: 12px;
+	text-align:right;
+ 
+}
+.dh{
+	float:left;
+	margin-right: 10px;*margin-right: 10px!important;*margin-right: 5px;
+	margin-top: 13px;
+}
+ 
+
+.dh a  {
+	height: 77px;
+	width: 77px;
+	float: left;
+	margin: 0px;
+	padding: 0px;
+	clear: none;
+}
+.dh a:hover {
+	position:relative;
+	width:77px;
+	height:77px;
+	background-image: url(../images/1.png);
+	background-repeat: no-repeat;
+	background-position: left 0px;
+	margin: 0;
+	padding: 0;
+	_ background-image: none; 
+                      _filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src="images/1.png");	cursor:pointer;
+
+}
+.dh1 {
+	float: right;
+	height: 106px;
+	width: 350px;
+*margin-right: 10px!important;*margin-right: 5px;
+	margin: 0px;
+	padding: 0px;
+}
+.dh2 {
+	background-image: url(../images/2.png);
+	background-repeat: no-repeat;
+	float: left;
+	height: 77px;
+	width: 77px;
+	margin-top: 13px;
+	font-size: 12px;
+}
+.dh2 a  {
+	height: 77px;
+	width: 77px;
+	float: left;
+	margin: 0px;
+	padding: 0px;
+	clear: none;
+}
+.dh2 a:hover {
+	position:relative;
+	width:77px;
+	height:77px;
+	background-image: url(../images/1.png);
+	background-repeat: no-repeat;
+	background-position: left 0px;
+	margin: 0;
+	padding: 0;
+	_background:none;
+                      _filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src="images/1.png");	cursor:pointer;
+
+}
+
+
+.hy {
+	float: right;
+	width: 300px;
+	margin-top: 45px;
+}
+.wenzi {
+	font-size: 12px;
+	line-height: 24px;
+	color: #333;
+}
+.wenzi a {
+	font-size: 12px;
+	line-height: 24px;
+	color: #333;
+	text-decoration: none;
+}
+.wenzi a:hover {
+	font-size: 12px;
+	line-height: 24px;
+	color: #C00;
+}
+.wenzi1 {
+	color: #333;
+	font-size: 12px;
+	line-height: 24px;
+}
+.wz {
+	background-image: url(../images/w1.jpg);
+	background-repeat: repeat-x;
+	height: 26px;
+	float: left;
+	width: 100%;
+	margin: 0px;
+	padding: 0px;
+}

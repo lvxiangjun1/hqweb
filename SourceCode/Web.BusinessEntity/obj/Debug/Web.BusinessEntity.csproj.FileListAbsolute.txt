@@ -1,0 +1,9 @@
+E:\2008program\金华网站\WebSite\Bin\Web.BusinessEntity.dll
+E:\2008program\金华网站\Web.BusinessEntity\obj\Debug\Web.BusinessEntity.dll
+E:\2008program\金华网站\Web.BusinessEntity\obj\Debug\Web.BusinessEntity.pdb
+E:\2008program\金华网站\WebSite\Bin\Web.BusinessEntity.pdb
+E:\2008program\金华网站\Web.BusinessEntity\obj\Debug\Web.BusinessEntity.csprojResolveAssemblyReference.cache
+E:\2008program\汉齐网站\WebSite\Bin\Web.BusinessEntity.dll
+E:\2008program\汉齐网站\WebSite\Bin\Web.BusinessEntity.pdb
+E:\2008program\汉齐网站\Web.BusinessEntity\obj\Debug\Web.BusinessEntity.dll
+E:\2008program\汉齐网站\Web.BusinessEntity\obj\Debug\Web.BusinessEntity.pdb

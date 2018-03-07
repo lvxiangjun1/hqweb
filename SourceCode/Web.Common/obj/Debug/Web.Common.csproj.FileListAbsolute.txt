@@ -1,0 +1,8 @@
+E:\2008program\金华网站\WebSite\Bin\Web.Common.dll
+E:\2008program\金华网站\WebSite\Bin\Web.Common.pdb
+E:\2008program\金华网站\Web.Common\obj\Debug\Web.Common.dll
+E:\2008program\金华网站\Web.Common\obj\Debug\Web.Common.pdb
+E:\2008program\汉齐网站\WebSite\Bin\Web.Common.dll
+E:\2008program\汉齐网站\WebSite\Bin\Web.Common.pdb
+E:\2008program\汉齐网站\Web.Common\obj\Debug\Web.Common.dll
+E:\2008program\汉齐网站\Web.Common\obj\Debug\Web.Common.pdb

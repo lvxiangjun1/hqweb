@@ -1,0 +1,10 @@
+E:\2008program\金华网站\WebSite\Bin\Web.LxjOnlineMarket.dll
+E:\2008program\金华网站\WebSite\Bin\Web.LxjOnlineMarket.pdb
+E:\2008program\金华网站\Web.LxjOnlineMarket\obj\Debug\Web.LxjOnlineMarket.dll
+E:\2008program\金华网站\Web.LxjOnlineMarket\obj\Debug\Web.LxjOnlineMarket.pdb
+E:\2008program\金华网站\Web.LxjOnlineMarket\obj\Debug\Web.LxjOnlineMarket.csprojResolveAssemblyReference.cache
+E:\2008program\汉齐网站\WebSite\Bin\Web.LxjOnlineMarket.dll
+E:\2008program\汉齐网站\WebSite\Bin\Web.LxjOnlineMarket.pdb
+E:\2008program\汉齐网站\Web.LxjOnlineMarket\obj\Debug\Web.LxjOnlineMarket.csprojResolveAssemblyReference.cache
+E:\2008program\汉齐网站\Web.LxjOnlineMarket\obj\Debug\Web.LxjOnlineMarket.dll
+E:\2008program\汉齐网站\Web.LxjOnlineMarket\obj\Debug\Web.LxjOnlineMarket.pdb

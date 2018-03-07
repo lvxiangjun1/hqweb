@@ -1,0 +1,9 @@
+E:\2008program\金华网站\WebSite\Bin\Web.BaseWeb.dll
+E:\2008program\金华网站\Web.BaseWeb\obj\Debug\Web.BaseWeb.dll
+E:\2008program\金华网站\Web.BaseWeb\obj\Debug\Web.BaseWeb.pdb
+E:\2008program\金华网站\WebSite\Bin\Web.BaseWeb.pdb
+E:\2008program\汉齐网站\WebSite\Bin\Web.BaseWeb.dll
+E:\2008program\汉齐网站\WebSite\Bin\Web.BaseWeb.pdb
+E:\2008program\汉齐网站\Web.BaseWeb\obj\Debug\Web.BaseWeb.dll
+E:\2008program\汉齐网站\Web.BaseWeb\obj\Debug\Web.BaseWeb.pdb
+E:\2008program\汉齐网站\Web.BaseWeb\obj\Debug\Web.BaseWeb.csprojResolveAssemblyReference.cache

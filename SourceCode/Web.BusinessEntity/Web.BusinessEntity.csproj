@@ -1,0 +1,108 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{836CD80A-9CDE-4554-A484-D266BD52BA38}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Web.BusinessEntity</RootNamespace>
+    <AssemblyName>Web.BusinessEntity</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <SccProjectName>
+    </SccProjectName>
+    <SccLocalPath>
+    </SccLocalPath>
+    <SccAuxPath>
+    </SccAuxPath>
+    <SccProvider>
+    </SccProvider>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>..\WebSite\Bin\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="PersistenceLayer">
+      <HintPath>..\Web\Bin\PersistenceLayer.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="ST_PROTYPEEntity.cs" />
+    <Compile Include="SYS_BASE_USERSEntity.cs" />
+    <Compile Include="SYS_USER_BLINDEntity.cs" />
+    <Compile Include="SYS_USER_DOCTOREntity.cs" />
+    <Compile Include="SYS_USER_ENTEREntity.cs" />
+    <Compile Include="SYS_USER_LAWEntity.cs" />
+    <Compile Include="T_ADVERTISMENTEntity.cs" />
+    <Compile Include="T_BLINDACTIVITYEntity.cs" />
+    <Compile Include="T_BLINDMEMBEREntity.cs" />
+    <Compile Include="T_BLINDMSGEntity.cs" />
+    <Compile Include="T_BLINDNEWSEntity.cs" />
+    <Compile Include="T_BLINDSIGNEntity.cs" />
+    <Compile Include="T_DOCTORHELPEntity.cs" />
+    <Compile Include="T_DOCTORHELPPICEntity.cs" />
+    <Compile Include="T_DOCTORINFOEntity.cs" />
+    <Compile Include="T_ENTERPRISE_ORDERLISTEntity.cs" />
+    <Compile Include="T_JOBWANTEDEntity.cs" />
+    <Compile Include="T_LAWHELPEntity.cs" />
+    <Compile Include="T_LAWHELPPICEntity.cs" />
+    <Compile Include="T_LAWINFOEntity.cs" />
+    <Compile Include="T_NEWSBASEEntity.cs" />
+    <Compile Include="T_NEWSINFOSEntity.cs" />
+    <Compile Include="T_NEWSNODEEntity.cs" />
+    <Compile Include="T_NEWSPICEntity.cs" />
+    <Compile Include="T_PRODUCTEntity.cs" />
+    <Compile Include="T_PRODUCTPICEntity.cs" />
+    <Compile Include="T_RECRUITEntity.cs" />
+    <Compile Include="T_RENTHOUSEEntity.cs" />
+    <Compile Include="T_RENTHOUSEPICEntity.cs" />
+    <Compile Include="T_SECCAREntity.cs" />
+    <Compile Include="T_SECCARPICEntity.cs" />
+    <Compile Include="T_SECHOUSEEntity.cs" />
+    <Compile Include="T_SECHOUSEPICEntity.cs" />
+    <Compile Include="T_SERVICEENTERPRISEEntity.cs" />
+    <Compile Include="T_SERVICETRACINGEntity.cs" />
+    <Compile Include="T_SURVEYANSWEREntity.cs" />
+    <Compile Include="T_SURVEYEntity.cs" />
+    <Compile Include="T_SURVEYQUESTIONEntity.cs" />
+    <Compile Include="T_SURVEYREPLYEntity.cs" />
+    <Compile Include="T_TRANSACTIONBACKEntity.cs" />
+    <Compile Include="T_TRANSACTIONINFOEntity.cs" />
+    <Compile Include="T_WEBMANAGEEntity.cs" />
+    <Compile Include="T_WEBMANAGEROLEEntity.cs" />
+    <Compile Include="T_BLINDNEWSPICEntity.cs" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

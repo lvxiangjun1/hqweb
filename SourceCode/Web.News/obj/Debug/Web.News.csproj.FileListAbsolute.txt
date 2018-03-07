@@ -1,0 +1,5 @@
+E:\2008program\汉齐网站\WebSite\Bin\Web.News.dll
+E:\2008program\汉齐网站\WebSite\Bin\Web.News.pdb
+E:\2008program\汉齐网站\Web.News\obj\Debug\Web.News.csprojResolveAssemblyReference.cache
+E:\2008program\汉齐网站\Web.News\obj\Debug\Web.News.dll
+E:\2008program\汉齐网站\Web.News\obj\Debug\Web.News.pdb

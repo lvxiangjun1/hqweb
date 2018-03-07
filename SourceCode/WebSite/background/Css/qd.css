@@ -1,0 +1,26 @@
+@charset "utf-8";
+/* CSS Document */
+
+.qudong {
+	margin-top: 20px;
+	margin-left: 50px;
+	margin-bottom: 40px;
+}
+.qdTitle {
+	height: 125px;
+	background-image: url(../images/q1.jpg);
+	background-repeat: no-repeat;
+	width: 956px;
+}
+.wenzi {
+	font-family: "微软雅黑";
+	font-size: 18px;
+	font-weight: normal;
+}
+.tableqd {
+	border-bottom-width: 1px;
+	border-bottom-style: solid;
+	border-bottom-color: #dde4ff;
+	height: 55px;
+	margin-top: 5px;
+}

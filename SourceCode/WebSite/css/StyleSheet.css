@@ -1,0 +1,42 @@
+﻿.pic {
+	BORDER-BOTTOM: #878787 1px solid; BORDER-LEFT: #878787 1px solid; WIDTH: 350px; HEIGHT: 310PX; OVERFLOW: hidden; BORDER-TOP: #878787 1px solid; BORDER-RIGHT: #878787 1px solid
+}
+#page-wrap {
+	WIDTH: 350px; HEIGHT: 310PX; OVERFLOW: hidden
+}
+.main-photo-slider {
+	POSITION: absolute; WIDTH: 350px; HEIGHT: 310PX; OVERFLOW: hidden
+}
+.main-photo-slider A {
+	POSITION: absolute; DISPLAY: none
+}
+.main-photo-slider A IMG {
+	WIDTH: 350px; HEIGHT: 310PX;
+}
+.photo-meta-data {
+	Z-INDEX: 9998; POSITION: relative; WIDTH: 350px; BACKGROUND: url(../2011new_images/4562.jpg); HEIGHT: 36px; TOP: 210px
+}
+.photo-meta-data A {
+	TEXT-ALIGN: center; LINE-HEIGHT: 24px; DISPLAY: none; COLOR: white; FONT-SIZE: 14px; FONT-WEIGHT: bold
+}
+#movers-row {
+	MARGIN-TOP: 216px; PADDING-LEFT: 7px
+}
+#movers-row DIV {
+	WIDTH: 52px; FLOAT: left; HEIGHT: 42px; OVERFLOW: hidden; MARGIN-RIGHT:3px
+}
+#movers-row DIV A.cross-link {
+	FLOAT: right
+}
+.cross-link {
+	Z-INDEX: 9999; POSITION: relative; WIDTH: 52px; DISPLAY: block; PADDING-TOP: 5px
+}
+.active-thumb {
+	BACKGROUND: url(../2011new_images/icon-uparrowsmallwhite.png) no-repeat center top
+}
+.cross-link IMG {
+	BORDER-BOTTOM: #fff 1px solid; FILTER: Alpha(opacity=70); BORDER-LEFT: #fff 1px solid; WIDTH: 50px; HEIGHT: 34px; BORDER-TOP: #fff 1px solid; BORDER-RIGHT: #fff 1px solid; -moz-opacity: .7; opacity: 0.7
+}
+.active-thumb IMG {
+	FILTER: Alpha(opacity=100); -moz-opacity: 1; opacity: 1
+}
